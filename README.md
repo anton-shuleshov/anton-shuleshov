@@ -1,222 +1,48 @@
-
 # Anton Shuleshov
 
-### Business & Data Analyst | Business Intelligence | Marketing Analytics
+### Business & Data Analyst | Business Intelligence | Commercial Analytics
 
-📍 **North Holland, Netherlands**  
-🔗 [LinkedIn](https://www.linkedin.com/in/antonshuleshov/) | [GitHub Portfolio](https://github.com/anton-shuleshov?tab=repositories)
+📍 North Holland, Netherlands · [LinkedIn](https://www.linkedin.com/in/antonshuleshov/)
 
----
+I combine **10+ years of experience in marketing, business development and commercial analysis** with practical skills in **Power BI, SQL, DAX and data modelling**. My focus is turning business questions into clear KPIs, reliable reporting and actionable insights.
 
-## About Me
+Currently studying **Post-HBO Big Data Business Analist at Inholland Academy**, Netherlands.
 
-I am a business and marketing professional with **10+ years of experience** in marketing analytics, commercial performance, business development, branding, and management reporting.
+## Featured projects
 
-I am currently expanding my expertise in **Data Analytics and Business Intelligence** through the **Post-HBO Big Data Business Analist programme at Inholland Academy** in the Netherlands.
+### [Mr.Doors — Commercial Intelligence & Business Performance](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi)
 
-My professional background enables me to approach analytics from both a technical and a business perspective: understanding commercial challenges, defining meaningful KPIs, preparing and analysing data, and translating findings into actionable recommendations.
+[![Mr.Doors executive dashboard](https://raw.githubusercontent.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi/main/04_Dashboards/01_Executive_Overview.png)](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi)
 
-My work covers the analytical process from **data extraction, cleaning, transformation, and modelling to statistical analysis, interactive reporting, and business insights**.
+**Power BI · SQL · DAX · Commercial Analytics**
 
-I am particularly interested in opportunities involving **Business Intelligence, Data Analytics, Commercial Analytics, and Marketing & Customer Insights**.
+An eight-page business intelligence report covering sales, finance, customers, marketing and operations for the **2020–2021 reporting period**. Built in 2026, it includes analytical SQL, source datasets, data documentation and validation results.
 
----
+**Business perspective:** revenue of approximately **₽132.15M**, a **31.4% gross margin**, and **61.6% revenue-budget attainment** in the published dataset. The project connects performance indicators with management questions about profitability, budget variance and receivables.
 
-## Technical Skills & Tools
+### Other analytics projects
 
-| Area | Technologies & Competencies |
-|---|---|
-| **Business Intelligence** | Power BI, interactive dashboards, KPI reporting, business performance analysis |
-| **Data Preparation & ETL** | Power Query, data cleaning, transformation, validation, Microsoft Excel |
-| **Data Modelling** | Relational data models, table relationships, DAX measures |
-| **Databases & Querying** | SQL, relational databases, data extraction and aggregation |
-| **Big Data Technologies** | Apache Hadoop, Apache Hive, HiveQL, Apache Pig |
-| **Statistical Analytics** | R, RStudio, dplyr, ggplot2, exploratory data analysis |
-| **Business & Marketing Analytics** | Sales analysis, customer insights, commercial reporting, marketing performance |
-| **Business Competencies** | KPI development, requirements analysis, stakeholder communication, data storytelling |
+| Project | Focus | Technologies |
+| --- | --- | --- |
+| [Sales Performance Dashboard](https://github.com/anton-shuleshov/powerbi-sales-performance-dashboard) | Sales KPIs, regional performance, profitability and customers | Power BI, Power Query, DAX |
+| [European National Anthems](https://github.com/anton-shuleshov/european-national-anthems-analytics) | Word-frequency analysis across four countries; Inholland coursework | Hadoop, Pig, Hive, Power BI |
+| [Music Store Intelligence](https://github.com/anton-shuleshov/music-store-commercial-intelligence) | Revenue, customer behaviour and music-catalog performance | Power BI, DAX |
 
----
+Each repository includes project documentation and available source files or report previews.
 
-## Portfolio at a glance
+## Skills
 
-| Project | Business question / analytical focus | Tools | Deliverables |
-| --- | --- | --- | --- |
-| [Mr.Doors Commercial Intelligence](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi) | Revenue, profitability, budgets and operational performance | Power BI, SQL, DAX | 8 report pages, SQL queries, data and validation |
-| [Sales Performance](https://github.com/anton-shuleshov/powerbi-sales-performance-dashboard) | Sales KPIs, regional performance and customers | Power BI, Power Query, DAX | Dashboard, Excel sources and PDF |
-| [European National Anthems](https://github.com/anton-shuleshov/european-national-anthems-analytics) | Cross-country vocabulary and text metrics | Hadoop, Pig, Hive, Power BI | CSV datasets, processing scripts and report |
-| [Music Store Intelligence](https://github.com/anton-shuleshov/music-store-commercial-intelligence) | Customer purchasing and catalog performance | Power BI, DAX | 3-page report and source data |
+| Area | Tools and strengths |
+| --- | --- |
+| **Business intelligence** | Power BI, DAX, dashboards, KPI design and data storytelling |
+| **Data preparation & modelling** | Power Query, Excel, relational models, data validation |
+| **Data analysis** | SQL, exploratory analysis, commercial and customer insights |
+| **Big data & statistics (coursework)** | Hadoop, Apache Pig, HiveQL, R / RStudio |
 
-**Start here:** [Mr.Doors executive dashboard](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi/blob/main/04_Dashboards/01_Executive_Overview.png) · [Mr.Doors business insights](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi#key-insights-and-business-implications)
+## Background & direction
 
----
+My professional experience spans **marketing analytics, branding, business development and management reporting**, including work at **Mr.Doors (2019–2022)**. I bring an understanding of business stakeholders, commercial performance and decision-making to analytical projects.
 
-## Featured Data Analytics Projects
+I am interested in **Business Analyst, BI Analyst, Reporting Analyst, Data Analyst and Commercial / Marketing Analytics** opportunities in the Netherlands.
 
-### 1. Mr.Doors — Commercial Intelligence & Business Performance
-
-**Power BI | SQL | DAX | Commercial Analytics | Financial & Operational Reporting**
-
-[Explore the repository](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi)
-
-[![Mr.Doors Executive Overview](https://raw.githubusercontent.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi/main/04_Dashboards/01_Executive_Overview.png)](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi)
-
-An eight-page commercial intelligence report covering 2020–2021 business performance, developed in Power BI in 2026. It brings together sales, finance, customers, marketing, telemarketing, deliveries and tender reporting, with SQL analysis, DAX measures and validation materials.
-
----
-
-### 2. Sales Performance Dashboard
-
-**Power BI | Power Query | DAX | Data Modelling | Business Intelligence**
-
-[View GitHub Repository](https://github.com/anton-shuleshov/powerbi-sales-performance-dashboard)
-
-An end-to-end sales performance analytics project designed to transform transactional business data into structured management reporting.
-
-**Analytical workflow:**
-- Importing and preparing multiple source tables.
-- Cleaning and transforming data using Power Query.
-- Reviewing data types, date fields, and data consistency.
-- Building relationships between analytical tables.
-- Developing DAX measures and business KPIs.
-- Analysing sales performance across regions, countries, and customer segments.
-- Creating an interactive Power BI dashboard to support business decision-making.
-
-**Focus:** Sales performance monitoring, commercial intelligence, KPI reporting, and management insights.
-
----
-
-### 3. European National Anthems Analytics
-
-**Apache Hadoop | Apache Pig | Apache Hive | Power BI | Data Transformation**
-
-[View GitHub Repository](https://github.com/anton-shuleshov/european-national-anthems-analytics)
-
-A Big Data analytics project exploring characteristics and patterns in national anthem datasets across European countries.
-
-**Analytical workflow:**
-- Preparing structured source datasets for analysis.
-- Processing and transforming data using Apache Pig.
-- Working with Apache Hive and HiveQL for querying and aggregation.
-- Applying Big Data processing concepts in a Hadoop environment.
-- Exporting processed datasets for further analytical use.
-- Preparing data for reporting and visualisation.
-- Developing interactive Power BI visualisations to explore differences between countries.
-
-**Focus:** Big Data processing, data transformation, analytical querying, and visual exploration.
-
----
-
-### 4. Music Store Commercial Intelligence
-
-**Power BI | Power Query | DAX | Data Modelling | Customer Analytics**
-
-[View GitHub Repository](https://github.com/anton-shuleshov/music-store-commercial-intelligence)
-
-A multi-page commercial intelligence solution analysing music store revenue, purchasing behaviour, and catalog performance.
-
-**Analytical workflow:**
-- Preparing transactional, customer, and product-related datasets.
-- Organising and validating analytical data.
-- Building a structured data model for commercial reporting.
-- Developing DAX measures for revenue, orders, customer activity, and product performance.
-- Analysing purchasing patterns and customer-level metrics.
-- Investigating catalog performance across artists, tracks, and genres.
-- Designing a three-page interactive Power BI report.
-
-**Dashboard pages:**
-1. **Executive Overview** — Revenue, orders, sales performance, and key commercial indicators.
-2. **Customer Intelligence** — Customer activity, purchasing behaviour, and customer value metrics.
-3. **Catalog & Genre Insights** — Product catalog performance, artists, tracks, and music genres.
-
-**Focus:** Commercial analytics, customer intelligence, business performance, and decision support.
-
----
-
-## Professional Experience
-
-### Marketing, Business Development & Commercial Analytics
-
-**10+ years of professional experience**
-
-My background includes marketing, business development, branding, and commercial analysis across different business environments.
-
-**Relevant experience includes:**
-- Analysing business performance and commercial indicators.
-- Working with sales, marketing, and customer-related information.
-- Developing reports to support management decisions.
-- Monitoring KPIs and evaluating business performance.
-- Supporting strategic planning and commercial development.
-- Communicating analytical findings to business stakeholders.
-- Connecting business requirements with measurable outcomes.
-
-This experience provides a strong foundation for combining technical data analytics with practical business understanding.
-
----
-
-## Education & Professional Development
-
-### Post-HBO Big Data Business Analist
-**Inholland Academy | Netherlands**
-
-Professional development in modern data analytics, Business Intelligence, and Big Data technologies.
-
-**Areas of study and practical application:**
-- Business Intelligence and Data Warehousing
-- Data preparation, ETL, and transformation
-- Power BI, Power Query, and DAX
-- SQL and relational data analysis
-- Apache Hadoop, Hive, and Pig
-- R programming and statistical analysis
-- Exploratory Data Analysis
-- Data visualisation and analytical reporting
-
-### Additional Professional Development
-
-**EY — AI Essentials**
-
-Foundational knowledge of artificial intelligence, its business applications, and responsible adoption.
-
----
-
-## Current Analytics Development
-
-I continue to expand my portfolio through practical projects combining business questions with technical analysis.
-
-**Current areas of development:**
-- Statistical analysis and data visualisation using R.
-- SQL-based business analytics and querying.
-- Data preparation and transformation workflows.
-- Business Intelligence solutions using commercial datasets.
-- End-to-end analytical projects integrating data processing, modelling, and reporting.
-
----
-
-## Career Interests
-
-I am interested in analytical opportunities where I can combine my business background with technical data skills.
-
-**Areas of interest:**
-
-- Data Analyst
-- Business Intelligence Analyst
-- Business Analyst
-- Commercial / Sales Analyst
-- Marketing & Customer Insights Analyst
-- Reporting Analyst
-
-📍 **Based in North Holland, Netherlands**
-
----
-
-## Let's Connect
-
-I welcome professional connections, knowledge sharing, and opportunities in Data Analytics, Business Intelligence, and commercial analytics.
-
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/antonshuleshov/)**
-
-**[Explore my GitHub Projects](https://github.com/anton-shuleshov?tab=repositories)**
-
----
-
-*Turning business questions into meaningful data-driven decisions.*
-
+**[Connect on LinkedIn](https://www.linkedin.com/in/antonshuleshov/)** · **[Explore all repositories](https://github.com/anton-shuleshov?tab=repositories)**
