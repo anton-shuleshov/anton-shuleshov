@@ -39,7 +39,19 @@ I am particularly interested in opportunities involving **Business Intelligence,
 
 ## Featured Data Analytics Projects
 
-### 1. Sales Performance Dashboard
+### 1. Mr.Doors — Commercial Intelligence & Business Performance
+
+**Power BI | SQL | DAX | Commercial Analytics | Financial & Operational Reporting**
+
+[Explore the repository](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi)
+
+[![Mr.Doors Executive Overview](https://raw.githubusercontent.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi/main/04_Dashboards/01_Executive_Overview.png)](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi)
+
+An eight-page commercial intelligence report covering 2020–2021 business performance, developed in Power BI in 2026. It brings together sales, finance, customers, marketing, telemarketing, deliveries and tender reporting, with SQL analysis, DAX measures and validation materials.
+
+---
+
+### 2. Sales Performance Dashboard
 
 **Power BI | Power Query | DAX | Data Modelling | Business Intelligence**
 
@@ -60,7 +72,7 @@ An end-to-end sales performance analytics project designed to transform transact
 
 ---
 
-### 2. European National Anthems Analytics
+### 3. European National Anthems Analytics
 
 **Apache Hadoop | Apache Pig | Apache Hive | Power BI | Data Transformation**
 
@@ -81,7 +93,7 @@ A Big Data analytics project exploring characteristics and patterns in national 
 
 ---
 
-### 3. Music Store Commercial Intelligence
+### 4. Music Store Commercial Intelligence
 
 **Power BI | Power Query | DAX | Data Modelling | Customer Analytics**
 
