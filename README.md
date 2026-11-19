@@ -37,6 +37,19 @@ I am particularly interested in opportunities involving **Business Intelligence,
 
 ---
 
+## Portfolio at a glance
+
+| Project | Business question / analytical focus | Tools | Deliverables |
+| --- | --- | --- | --- |
+| [Mr.Doors Commercial Intelligence](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi) | Revenue, profitability, budgets and operational performance | Power BI, SQL, DAX | 8 report pages, SQL queries, data and validation |
+| [Sales Performance](https://github.com/anton-shuleshov/powerbi-sales-performance-dashboard) | Sales KPIs, regional performance and customers | Power BI, Power Query, DAX | Dashboard, Excel sources and PDF |
+| [European National Anthems](https://github.com/anton-shuleshov/european-national-anthems-analytics) | Cross-country vocabulary and text metrics | Hadoop, Pig, Hive, Power BI | CSV datasets, processing scripts and report |
+| [Music Store Intelligence](https://github.com/anton-shuleshov/music-store-commercial-intelligence) | Customer purchasing and catalog performance | Power BI, DAX | 3-page report and source data |
+
+**Start here:** [Mr.Doors executive dashboard](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi/blob/main/04_Dashboards/01_Executive_Overview.png) · [Mr.Doors business insights](https://github.com/anton-shuleshov/mrdoors-commercial-intelligence-powerbi#key-insights-and-business-implications)
+
+---
+
 ## Featured Data Analytics Projects
 
 ### 1. Mr.Doors — Commercial Intelligence & Business Performance
